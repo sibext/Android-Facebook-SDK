@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.avianey</groupId>
     <artifactId>facebook-android-api</artifactId>
-    <version>3.5</version>
+    <version>3.5.2</version>
     <packaging>apklib</packaging>
 
     <properties>
@@ -20,6 +20,11 @@
             <groupId>com.google.android</groupId>
             <artifactId>support-v4</artifactId>
             <version>r7</version>
+        </dependency>
+        <dependency>
+             <groupId>fr.avianey</groupId>
+             <artifactId>bolts-android-api</artifactId>
+             <version>1.1.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.android</groupId>
